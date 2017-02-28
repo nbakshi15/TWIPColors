@@ -11,7 +11,6 @@ public class Main {
         String begin = input.next();
 
         if (begin.equalsIgnoreCase("1")) {
-
             Storage j = new Storage();
 
             System.out.println("Enter a Hexidecimal number");
